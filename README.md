@@ -56,8 +56,8 @@ From the command prompt execute the following command: **cdk destroy**
 ## Deploy Resources
 |	Identifier	|	Service	|	Type	|
 |	:---	|	:---	|	:---	|
-ApigwSnsStack-GatewayExecutionRole16B5E8DF-9KLK4A4BTRA1	|	IAM |	Role
+ApigwSnsStack-GatewayExecutionRole...	|	IAM |	Role
 restapis/y97h9od2td	|	ApiGateway |	RestApi
-account/ApigwS-SNSAp-bNRFmHQe0b4r	|	ApiGateway |	Account
-ApigwSnsStack-SNSApiCloudWatchRole70B9714E-1BMPF5ZKG083J	|	IAM |	Role
+account/ApigwS-SNS...	|	ApiGateway |	Account
+ApigwSnsStack-SNSApiCloudWatchRole...	|	IAM |	Role
 demo_apigw_sns	|	SNS |	Topic
